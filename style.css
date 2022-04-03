@@ -102,12 +102,12 @@ header{
     }
     
     .home .content h1{
-        font-size: 3.2rem;
+        font-size: 3.9rem;
        
     }
     
     .home .content h3{
-        font-size: 1.5rem;
+        font-size: 2rem;
         
         font-weight: normal;
     }
@@ -120,7 +120,7 @@ header{
         border-radius: .5rem;
         box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
         margin-top: 0.5rem;
-        font-size: 1rem;
+        font-size: 1.8rem;
     }
     
     .home .content .btn:hover{
@@ -243,6 +243,7 @@ header{
   padding: 50px;
   font-size: 1rem;
 bottom: 0;
+margin-right: -q000px;
 }
 .scroll-top img{
   width:8rem;
@@ -324,11 +325,12 @@ div{
   padding-top: 30px;
 }
 .ttt{
-  background-color: rgb(225, 235, 252);
+  background-color: rgb(252, 225, 225);
   padding: 30px;
  
 }
 
-.mario img{
+.mario img {
   align-items: center;
 }
+
